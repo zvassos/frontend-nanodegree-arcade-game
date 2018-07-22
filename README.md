@@ -4,9 +4,20 @@ This is my version of the Arcade Game for the Google's & Udacity's Front-End Web
 
 ## Table of Contents
 
+* [How to play the Game](#Play the game)
 * [Instructions](#instructions)
 * [Resources](#Resources)
 * [Contributing](#contributing)
+
+## Play the game
+
+You can play the game by:
+
+* Cloning it: (https://github.com/zvassos/frontend-nanodegree-arcade-game.git)
+* Download it from my [github page](https://github.com/zvassos/frontend-nanodegree-arcade-game). 
+* Or by visiting this [link](http://htmlpreview.github.io/?https://github.com/zvassos/frontend-nanodegree-arcade-game/blob/master/index.html).
+
+If you choose to clone or download a local copy you will have to run the index.html file in your favorite browser.
 
 ## Instructions
 
